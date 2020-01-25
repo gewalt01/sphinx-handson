@@ -33,10 +33,6 @@ README
             └── index.rst ....... ドキュメントのインデックスページ
 
 
-.. literalinclude:: directory.rst
-    :language: rst
-    :linenos:
-
 FAQ凸
 ======
 | Q: これは，何ですか？  
